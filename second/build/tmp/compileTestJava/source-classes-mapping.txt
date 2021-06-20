@@ -1,0 +1,2 @@
+com/example/userservice/SpringAppCenterApplicationTests.java
+ com.example.userservice.SpringAppCenterApplicationTests
